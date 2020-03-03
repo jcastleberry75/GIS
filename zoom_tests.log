@@ -1,0 +1,7 @@
+2020-03-03 14:50:17,407 [INFO] MainProcess 1108 (Thread-2) THREAD-ID: 10768 FUNCTION: test test1
+2020-03-03 14:50:17,408 [INFO] MainProcess 1108 (Thread-2) THREAD-ID: 10768 FUNCTION: test Message Received: test1
+2020-03-03 14:50:22,924 [INFO] MainProcess 1108 (Thread-3) THREAD-ID: 10144 FUNCTION: test test2
+2020-03-03 14:50:22,924 [INFO] MainProcess 1108 (Thread-3) THREAD-ID: 10144 FUNCTION: test Message Received: test2
+2020-03-03 14:50:27,631 [WARNING] MainProcess 1108 (Thread-4) THREAD-ID: 21712 FUNCTION: test Bad POST: <Request 'http://localhost:10001/testing?msg2=test2' [POST]>
+2020-03-03 14:50:37,459 [INFO] MainProcess 1108 (Thread-5) THREAD-ID: 12840 FUNCTION: test test2435
+2020-03-03 14:50:37,462 [INFO] MainProcess 1108 (Thread-5) THREAD-ID: 12840 FUNCTION: test Message Received: test2435
