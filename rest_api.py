@@ -11,7 +11,7 @@ def error_handler(error):
 
 
 def main():
-    logging.info('#################### FLASK SERVER STARTED  ####################')
+    logger.info('#################### FLASK SERVER STARTED  ####################')
     app = Flask(__name__)
 
     @app.route("/testing", methods=['POST'])
